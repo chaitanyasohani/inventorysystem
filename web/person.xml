@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<user>
+<person>
+<uname>ajay</uname>
+<password>a123</password>
+<mobile> 09758565562</mobile>
+</person>
+<person>
+<uname>rahul</uname>
+<password>r123</password>
+<mobile> 856956856</mobile>
+</person>
+<person>
+<uname>lokendra</uname>
+<password>L123</password>
+<mobile> 8569656856</mobile>
+</person>
+<person>
+<uname>vishal</uname>
+<password>v123</password>
+<mobile> 8325656856</mobile>
+</person>
+<person>
+<uname>Bharat</uname>
+<password>b123</password>
+<mobile> 8563259856</mobile>
+</person>
+</user>
+
